@@ -19,7 +19,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
 
-7. Deploy your app to a free static page hosting service, such as GitHub Pages: 
+7. Deploy your app to a free static page hosting service, such as GitHub Pages: https://sodacarlos.github.io/Belly_Button_Challenge/
 
 
 The following task is advanced and therefore optional:
